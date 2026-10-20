@@ -1,34 +1,19 @@
 
 <div align="center">
 
-# 🌌 NGHUBZ
+# NGHUB
 
 ### FOUNDER • DEVELOPER • CREATOR
 
-<img src="https://i.postimg.cc/FzwqDfkD/new-logo.png" width="120" alt="NGHUBZ Logo">
+<img src="https://static.mysellauth.com/storage/images/1191888.webp" width="120" alt="NGHUBZ Logo">
 
-**Clean Code. Creative Ideas. Endless Possibilities.**
+**Clean Code. Endless Possibilities. For Murder Mystery 2**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAZAxNG)
-[![Website](https://img.shields.io/badge/NGHUBZ-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nghubz.netlify.app)
+[![Website](https://img.shields.io/badge/NGHUBZ-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nghubz.sellauth.com)
 [![Projects](https://img.shields.io/badge/Explore-Projects-B44CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAZAxNG?tab=repositories)
 
 </div>
-
----
-
-## 👋 About Me
-
-Hey there! Welcome to my profile.
-
-I'm the **founder of NGHUBZ**, a project focused on creating tools, scripts, and digital experiences. I enjoy programming, designing modern interfaces, and bringing new ideas to life.
-
-- 💜 Founder of **NGHUBZ**
-- 💻 Interested in programming and web development
-- ⚡ Exploring Lua, HTML, CSS, and JavaScript
-- 🎯 Always learning and building something new
-
----
 
 ## ⚡ Featured Project
 
